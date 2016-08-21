@@ -22,7 +22,7 @@ public class DebugBox
    }
    public double getVolume()
    { 
-     double vol = length - width - height;
+     double vol = length * width * height;
      return vol;
    }
 }
