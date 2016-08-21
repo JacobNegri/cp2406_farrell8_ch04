@@ -4,9 +4,9 @@ public class FormLetterWriter
    public static void main(String[] args)
    {
       String name1, name2, lname2;
-      name1 = Negri;
-      name2 = Alex;
-      lname2 = Goulding
+      name1 = "Negri";
+      name2 = "Alex";
+      lname2 = "Goulding";
 
       displaySalutation(name1);
       displayLetter();

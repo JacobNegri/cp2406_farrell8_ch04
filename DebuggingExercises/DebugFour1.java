@@ -2,7 +2,7 @@
 // and performs mathematical operations with them
 public class DebugFour1
 {
-   public satic void main(String args[])
+   public static void main(String args[])
    {
       int x = 5;
       int y = 8;

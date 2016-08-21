@@ -1,4 +1,4 @@
-// This class discounts prices by 10%
+
 public class Billing
 {
    final static double TAX = 0.08;
@@ -6,7 +6,7 @@ public class Billing
    {
       double bill;
 
-      bill = computeBill(42.00)
+      bill = computeBill(42.00);
       System.out.println("The total for a photobook that costs $42.00 is $" + bill);
 
       bill = computeBill(19.99, 3);
